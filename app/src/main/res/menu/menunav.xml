@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="dashboard"
+        android:icon="@drawable/ic_dashboard"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="about"
+        android:icon="@drawable/ic_about"/>
+
+    <item
+        android:id="@+id/quit"
+        android:title="quit"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"/>
+</menu>
